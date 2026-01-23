@@ -104,37 +104,37 @@ const Index = () => {
         "Advanced search/filters for jobs and candidates",
         "Comprehensive interview workflow management"
       ]
-    },
-    {
-      title: "BizCraft",
-      subtitle: "Business Products & Category Management Platform",
-      description: "A modern, responsive B2B web platform built to showcase business products, manage categories, and handle customer inquiries using a scalable full-stack architecture.",
-      tech: [
-        "React.js",
-        "Vite",
-        "Tailwind CSS",
-        "Python",
-        "Django REST Framework",
-        "PostgreSQL"
-      ],
-      subProjects: [
-        { name: "Admin Dashboard", link: "https://admin.bizcraft.com" },
-        { name: "Product Catalog", link: "https://bizcraft.com/products" },
-        { name: "Categories Page", link: "https://bizcraft.com/categories" },
-        { name: "Contact & Inquiry Module", link: "https://bizcraft.com/contact" }
-      ],
-      features: [
-        "React + Vite frontend styled with Tailwind CSS",
-        "Fully responsive UI optimized for desktop, tablet, and mobile",
-        "Django REST backend providing clean, scalable APIs",
-        "PostgreSQL database for reliable and structured data storage",
-        "Admin-controlled product, category, and hero banner management",
-        "Dynamic home hero section with CMS-style configuration",
-        "Category-based product filtering and listing",
-        "Secure API-ready architecture for future role-based access",
-        "Contact and inquiry management stored and managed via admin panel"
-      ]
     }
+    // {
+    //   title: "BizCraft",
+    //   subtitle: "Business Products & Category Management Platform",
+    //   description: "A modern, responsive B2B web platform built to showcase business products, manage categories, and handle customer inquiries using a scalable full-stack architecture.",
+    //   tech: [
+    //     "React.js",
+    //     "Vite",
+    //     "Tailwind CSS",
+    //     "Python",
+    //     "Django REST Framework",
+    //     "PostgreSQL"
+    //   ],
+    //   subProjects: [
+    //     { name: "Admin Dashboard", link: "https://admin.bizcraft.com" },
+    //     { name: "Product Catalog", link: "https://bizcraft.com/products" },
+    //     { name: "Categories Page", link: "https://bizcraft.com/categories" },
+    //     { name: "Contact & Inquiry Module", link: "https://bizcraft.com/contact" }
+    //   ],
+    //   features: [
+    //     "React + Vite frontend styled with Tailwind CSS",
+    //     "Fully responsive UI optimized for desktop, tablet, and mobile",
+    //     "Django REST backend providing clean, scalable APIs",
+    //     "PostgreSQL database for reliable and structured data storage",
+    //     "Admin-controlled product, category, and hero banner management",
+    //     "Dynamic home hero section with CMS-style configuration",
+    //     "Category-based product filtering and listing",
+    //     "Secure API-ready architecture for future role-based access",
+    //     "Contact and inquiry management stored and managed via admin panel"
+    //   ]
+    // }
 
 
   ];
