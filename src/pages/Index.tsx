@@ -334,7 +334,7 @@ const Index = () => {
             </Card>
           </div>
 
-          <Card className="max-w-2xl mx-auto animate-scale-in">
+          {/* <Card className="max-w-2xl mx-auto animate-scale-in">
             <CardHeader>
               <CardTitle className="text-2xl">Send Me a Message</CardTitle>
               <CardDescription>
@@ -415,7 +415,7 @@ const Index = () => {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </section>
 
