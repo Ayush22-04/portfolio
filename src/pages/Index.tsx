@@ -76,7 +76,7 @@ const Index = () => {
       title: "AnkiMaster",
       subtitle: "English & Spanish Learning Platform",
       description: "Developed a bilingual learning platform with step-by-step modules for improving speaking, vocabulary, and grammar.",
-      tech: ["Python", "Django","Html","Css" "JavaScript", "PostgreSQL"],
+      tech: ["Python", "Django","Html","Css", "JavaScript", "PostgreSQL"],
       link: "https://ankimasterflashcards.com/",
       features: [
         "Flashcard-based learning with browse and study functionality",
